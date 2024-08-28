@@ -1,0 +1,24 @@
+/* src/components/Dashboard.css */
+.dashboard {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .sidebar {
+    width: 220px;
+    background-color: #000; /* Color negro */
+    color: #fff; /* Texto blanco */
+    padding: 20px;
+  }
+  
+  .content {
+    flex: 1;
+    padding: 20px;
+    background-color: #f4f4f4; /* Fondo gris claro */
+    overflow-y: auto;
+  }
+  
+  .product-card {
+    margin-bottom: 20px;
+  }
+  

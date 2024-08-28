@@ -1,0 +1,13 @@
+/* src/components/CustomerService.css */
+.customer-service {
+    margin-top: 20px;
+  }
+  
+  .customer-service h2 {
+    margin-bottom: 20px;
+  }
+  
+  .customer-service p {
+    margin: 10px 0;
+  }
+  
